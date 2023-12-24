@@ -18,7 +18,7 @@ class Employee:
          self.first = first
          self.last = last
       
-emp_1 = Employee('john' , 'smith')
+emp_1 = Employee('john' , 'jolad')
 
 #emp_1.fullname = 'Corey Schafer'
  
