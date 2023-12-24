@@ -23,5 +23,5 @@ emp_1 = Employee('john' , 'jolad')
 #emp_1.fullname = 'Corey Schafer'
  
 print(emp_1.first)
-print(emp_1.last)
+print(emp_1.email)
 print(emp_1.fullname)
